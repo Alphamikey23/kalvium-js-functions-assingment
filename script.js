@@ -13,12 +13,7 @@ console.log(ageCalculator(1990, 2024)); // Example usage
 
 //Challenge 2
 // Following is the code snippet commented , remove the comments and get started with the challenge. Find the errors and rewrite the function.
-//Function Addition(){
-//let a = a+b;
-//return a;
-//console.log(a);
-//}
-//Addition(2,3)
+
 function addition(a, b) {
   let sum = a + b;
   return sum;
